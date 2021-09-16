@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hi there 👋, I am Nicky 
 
-<!--
-**Artemixed/Artemixed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###### Student app developer
+Currently I'm learning:books:  __Python, PHP & JS__ 
 
-Here are some ideas to get you started:
+#### Some stuff about me
+-:penguin: I'm a huge GNU/Linux nerd
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-:cat: Mom of a kitty named Gino
+
+-:shark: BLÅHAJ enthusiast
+
+
+
+### Other places 📫 you can find me! 
+* Instagram: https://www.instagram.com/poezenbillen/
+* My :netherlands:twitter bot: https://twitter.com/OwONieuws
+* My :satellite:Personal website https://artemixed.nl
