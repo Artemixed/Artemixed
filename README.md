@@ -1,22 +1,11 @@
-<h2 align="center">Hi there 👋, I am Nicky</h2> 
-
-<h4 align="center"> Student fullstack web developer 📔 </h4>
-<br>
-<h3> Some stuff about  me! </h3>
-<p>
-৹ I'm a huge 🐧GNU/Linux nerd  <br>
-৹ Mom of a 🐈kitty named Gino <br>
-৹ BLÅHAJ 🦈enthusiast 
-</p>
-<h3> Other places 📫 you can find me! </h3>
-<p>
-৹ <a href="https://www.instagram.com/poezenbillen/">My personal 🌀 Instgram</a> <br>
-৹ <a href="https://twitter.com/OwONieuws">My 🌠twitter bot</a> <br>
-৹ <a href="https://artemixed.nl/">My 🪐Personal website</a>
-</p>
-
-<h3> Github Statistics! ⚡</h3>
-
-![](https://github-readme-stats.vercel.app/api?username=artemixed&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Artemixed&langs_count=8&layout=compact&theme=)
+### Hi there 👋, I am Nicky 
+###### Student app developer
+Currently I'm learning:books:  __Python, PHP & JS__ 
+#### Some stuff about me
+-:penguin: I'm a huge GNU/Linux nerd
+-:cat: Mom of a kitty named Gino
+-:shark: BLÅHAJ enthusiast
+### Other places 📫 you can find me! 
+* Instagram: https://www.instagram.com/poezenbillen/
+* My :netherlands:twitter bot: https://twitter.com/OwONieuws
+* My :satellite:Personal website https://artemixed.nl
